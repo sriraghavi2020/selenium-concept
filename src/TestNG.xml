@@ -1,0 +1,8 @@
+<suite name="TESTNG Session Test Automation Suite">
+<test name="TestNG concepts on Google">
+<classes>
+<class name= "TestNG_Concept.GoogleTest" />
+<class name= "TestNG_Concept.TestNG_Basic" />
+</classes>
+</test>
+</suite>
